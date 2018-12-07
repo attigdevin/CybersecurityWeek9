@@ -25,9 +25,8 @@ Not really an issue, but one thing I did differently is that I used the online g
   * 894 attacks on port 5060 - generally for VoIP, many known vulnerabilities
   * 592 attacks on port 80 - standard HTTP port, probably looking for simple web exploits
 
-
+* [session.json](session.json)
 
 ## Unresolved questions
  * What makes each Honeypot different? Why do they get such a wide range of attack numbers? - Presumably each Honeypot has different ports open and they are each sensitive to only certain attacks, but it would be interesting to know the specifics.
 
-[session.json](session.json)
