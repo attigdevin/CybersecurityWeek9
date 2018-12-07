@@ -14,7 +14,7 @@ The only major issue I ran in to was that I could not connect to the admin inter
 Not really an issue, but one thing I did differently is that I used the online gcloud console/ssh. This saves a ton of time since it does not require installing gcloud services on any computers and it connects in a much easier fashion.
 
 ## Summary of data
-![](sensors.GIF)
+![](sensors.gif)
 * 21768 total attacks
 * Dionaea recieved by far the most attacks with 14915 with the next closest being Amun with 6155 attacks.
 * ElasticHoney recieved very few attacks (only 12)
